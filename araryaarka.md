@@ -1,3 +1,3 @@
-- Nama : Ararya Arka Anugraha
-- Asal Jurusan : Rekayasa Perangkat Lunak
-- Nama Kampus : Institut Teknologi Sepuluh Nopember ( ITS )
+# Daftar Kontributor
+
+- Ararya Arka Anugraha
